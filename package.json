@@ -1,0 +1,14 @@
+{
+  "name": "nikecardproject",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  },
+  "scripts": {
+    "dev": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
